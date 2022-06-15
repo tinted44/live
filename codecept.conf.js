@@ -3,7 +3,7 @@ exports.config = {
   output: './output',
   helpers: {
     Playwright: {
-      url: 'test',
+      url: 'https://automationparctice.com/index.php',
       show: true,
       browser: 'chromium'
     }
